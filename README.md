@@ -1,1 +1,1 @@
-# PyHash
+# PyHash a useless python Package
